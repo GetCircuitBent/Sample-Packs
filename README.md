@@ -10,3 +10,8 @@ Enjoy!
 * Baby Blue
   * This sample pack consists of 9 instruments, several beat loops, and over 50 noise and percussion samples. These are all sampled from a   circuitbent toy keyboard I dubbed Baby Blue. [Demo of the keyboard.](https://youtu.be/PJVe3P9feUc)
 
+
+
+---
+
+Copyright (C) 2020 Get Circuit Bent LLC. Licensed under the [GNU General Public License v3.0](LICENSE). Contact: info@getcircuitbent.com
